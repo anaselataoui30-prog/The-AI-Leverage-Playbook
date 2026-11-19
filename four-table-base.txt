@@ -1,0 +1,200 @@
+=====================================================================
+ASSET 2 — FOUR-TABLE STORAGE BASE
+The AI Leverage Playbook — Chapter 1
+=====================================================================
+
+WHAT THIS IS
+
+The exact four-table schema from Chapter 1, with the five-state
+status field pre-configured. Build it once. Do not redesign it in
+week three because you thought of a better column name. Schema churn
+is the most popular form of procrastination in this entire discipline.
+
+Four tables in one base. Airtable, Notion, or four tabs in a
+spreadsheet. The tool is irrelevant. The schema is not.
+
+
+---------------------------------------------------------------------
+THE FOUR TABLES
+---------------------------------------------------------------------
+
+TABLE 1 — IDEAS
+  What it holds:      Raw inputs, one line each
+  Columns:            Status, Source, Angle, Score
+  Healthy row count:  50 or more
+
+  Status values:      raw, briefed, drafted, edited, shipped
+  The Source column is not optional. Acceptable entries: a link, a
+  book and page number, a dated personal experience, a customer
+  conversation, a number you measured yourself. Not acceptable: a
+  topic name, a memory of a video, or the word "various."
+
+  Score is your own ranking. Keep it to a 1–5 integer so it sorts.
+  Angle is the one-line framing — the reason this idea is not just
+  its topic.
+
+
+TABLE 2 — BRIEFS
+  What it holds:      One row per section or chapter
+  Columns:            Idea link, Must-cover bullets, Target words, Status
+  Healthy row count:  Matches active product
+
+  Status values:      raw, briefed, drafted, edited, shipped
+  Must-cover bullets go in the order the argument flows, not the
+  order you thought of them. This ordering is what stops the model
+  from producing the most statistically average structure available.
+
+  briefed is the state that triggers spend. Nothing moves to
+  briefed without a checkable Source on the linked Ideas row.
+
+
+TABLE 3 — DRAFTS
+  What it holds:      Generated output, one row per version
+  Columns:            Brief link, Version, Word count, Edit notes, Status
+  Healthy row count:  1 to 3 per brief
+
+  Status values:      raw, briefed, drafted, edited, shipped
+  Keep every version. The version you deleted is the one you will
+  want back at 11pm. Edit notes are for the reader you will be in
+  three weeks, who will not remember why you cut paragraph four.
+
+
+TABLE 4 — PRODUCTS
+  What it holds:      Shipped assets
+  Columns:            Draft link, Channel, URL, Launch date, Revenue
+  Healthy row count:  Grows forever
+
+  Status values:      raw, briefed, drafted, edited, shipped
+  Channel is where it lives: KDP, a marketplace, direct, a bundle.
+  Revenue is entered as a number, not a note, so you can sum the
+  column without cleaning it first.
+
+
+---------------------------------------------------------------------
+THE LINKAGE IS THE POINT
+---------------------------------------------------------------------
+
+  Products  →  points to Drafts
+  Drafts    →  points to Briefs
+  Briefs    →  points to Ideas
+
+Every shipped thing has a paper trail back to the one-line thought
+that started it. When something works, you know why. When something
+flops, you know where it broke.
+
+
+---------------------------------------------------------------------
+THE STATUS FIELD IS THE ENGINE
+---------------------------------------------------------------------
+
+Use exactly five states, on every table, spelled identically:
+
+      raw  →  briefed  →  drafted  →  edited  →  shipped
+
+Do not add a sixth. Do not use colours instead of values. Anything
+not marked shipped is visible work in progress, which means your
+daily to-do list is a filter, not a decision. You open the base,
+filter by status, and work the top of the list.
+
+If you change the spelling of a state halfway through — "Briefed"
+with a capital B, "in progress" instead of drafted — your filters
+silently stop returning rows and you will not notice for a week.
+
+
+---------------------------------------------------------------------
+TWO RULES
+---------------------------------------------------------------------
+
+1. NO SOURCE, NO BRIEF.
+   The Ideas table can hold a hundred unsourced lines indefinitely,
+   because raw costs nothing. The Briefs table cannot hold one,
+   because briefed is the state that triggers spend.
+
+2. ONE BATCH, ONE ROW TYPE.
+   Never mix a drafting job and a research job in the same run.
+
+
+---------------------------------------------------------------------
+WHAT IS DELIBERATELY MISSING
+---------------------------------------------------------------------
+
+There is no Assets table in this base. The fifth table appears the
+day your first asset ships, not before. An empty table is a schema
+you will redesign in week three.
+
+When that day comes, the Assets table is: id, Draft link, Asset type,
+text, platform, status (raw, scheduled, published — no edited state).
+
+
+---------------------------------------------------------------------
+HOW TO SET THIS UP
+---------------------------------------------------------------------
+
+AIRTABLE (recommended — real linked records)
+  1. Create a new base.
+  2. Create the four tables with the columns listed above.
+  3. Set every Status column to Single select, with exactly the five
+     options: raw, briefed, drafted, edited, shipped.
+  4. Set Idea link, Brief link, and Draft link as Linked record fields
+     pointing at the table above them.
+  5. Note: Airtable requires a primary field in every table — the
+     record name. Use Idea / Brief / Draft / Product as that name
+     field. It does not add a column to the schema above; it is how
+     the record is identified and how linked records display.
+
+NOTION
+  1. Create four databases inside one page.
+  2. Use Status as a Select property with the five options.
+  3. Use Relation properties for Idea link, Brief link, Draft link.
+  4. Duplicate this page to your own workspace and start filling rows.
+
+GOOGLE SHEETS / SPREADSHEET
+  1. Four tabs, named Ideas, Briefs, Drafts, Products.
+  2. Row 1 is the header row, exactly as listed above.
+  3. Set data validation on every Status column: list of items,
+     raw, briefed, drafted, edited, shipped. Reject invalid input.
+  4. Links are plain text or URLs — a spreadsheet cannot enforce
+     linkage, so the discipline is on you.
+
+DUPLICATE, DON'T SHARE
+  This base is read-only on purpose. Duplicate it to your own
+  account. A base you share with yourself is a base you will edit
+  around instead of work in.
+
+
+---------------------------------------------------------------------
+THE CSV FILES IN THIS FOLDER
+---------------------------------------------------------------------
+
+  ideas.csv      — header row plus one example row (delete it)
+  briefs.csv     — header row plus one example row (delete it)
+  drafts.csv     — header row plus one example row (delete it)
+  products.csv   — header row plus one example row (delete it)
+
+Import them into Airtable, Notion, or Sheets, then set the Status
+column to a single-select / validated list with the five states.
+The example rows are there to show the format of a filled cell, not
+to be kept. Delete them before your first real batch.
+
+
+---------------------------------------------------------------------
+BUILD SESSION — FROM CHAPTER 1
+---------------------------------------------------------------------
+
+One sitting. Ninety minutes. Do not start chapter two until all
+six are checked.
+
+  [ ] Run the model test: paste the master batch prompt with a real
+      brief into two candidate paid models and one free model, ten
+      runs each, count constraint violations
+  [ ] Commit to one paid primary and one free secondary, and cancel
+      every other AI subscription you're paying for
+  [ ] Create the four tables with the exact columns listed above, and
+      link Drafts to Briefs to Ideas
+  [ ] Add the five-state status field to every table: raw, briefed,
+      drafted, edited, shipped
+  [ ] Write ten one-line ideas into the Ideas table and mark all ten
+      as raw
+  [ ] Convert the top three ideas into Briefs rows with at least four
+      must-cover bullets each, then move them to briefed
+=====================================================================
