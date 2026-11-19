@@ -1,0 +1,210 @@
+=====================================================================
+ASSET 8 — METADATA WORKSHEET
+The AI Leverage Playbook — Chapter 4
+=====================================================================
+
+HOW TO USE THIS FILE
+
+Three elements do the work, and all three operate under a size
+constraint. Metadata is not decoration on the listing — it is the
+distribution.
+
+A listing is not a storefront you decorate. It is an interception
+point, placed where a specific person is already typing a specific
+phrase with a card already out.
+
+Not "how do I look professional" but "which search am I the best
+available answer to."
+
+
+========================= START COPYING HERE =========================
+
+ELEMENT 1 — THE COVER, AT THUMBNAIL SIZE
+---------------------------------------------------------------------
+
+  [ ] Title is readable when the image is the width of a search
+      result
+  [ ] Subtitle is legible, but secondary to the title
+  [ ] One idea per cover
+  [ ] No thin typefaces, no low contrast
+  [ ] Title is not smaller than the author name
+  [ ] Tested small before tested pretty
+
+If the title is unreadable at thumbnail width, the cover has failed
+at its only job. Check it at thumbnail size first, every time.
+
+
+---------------------------------------------------------------------
+ELEMENT 2 — THE THREE-LINE DESCRIPTION
+---------------------------------------------------------------------
+
+Most of the description is collapsed behind a read-more. The buyer
+decides on the three lines they can see, and those lines must
+restate the promise: outcome, audience, timeframe, obstacle.
+
+THE BUILDER
+
+  LINE 1 — OUTCOME (the change of state, imperative or declarative)
+  ______________________________________________________________
+
+  LINE 2 — AUDIENCE (who it is for, including the situation they
+  are already in)
+  ______________________________________________________________
+
+  LINE 3 — TIMEFRAME + OBSTACLE (a number, and the thing they
+  already tried and failed at)
+  ______________________________________________________________
+
+THE TEST — do these three lines read before the read-more fold?
+
+  [ ] Outcome is in line 1, not line 3
+  [ ] Audience names a person who recognises themselves
+  [ ] Timeframe is a number
+  [ ] Obstacle names something they already tried
+  [ ] Nothing in the first three lines describes the book —
+      they describe the reader and the outcome
+
+WEAK OPENING
+  "This comprehensive guide explores the fascinating relationship
+  between artificial intelligence and modern content creation,
+  offering readers a deep dive into the tools and techniques
+  reshaping the publishing industry."
+
+STRONG OPENING
+  "Write one grounded chapter a day. This 40-page playbook is for
+  non-technical solo operators who have bought AI tools and gotten
+  nothing from them. Publish your first product in 30 days without
+  hiring a writer or writing a line of code."
+
+The weak version describes the book. The strong version describes
+the reader and the outcome. A buyer cannot evaluate a book, but they
+can recognise themselves.
+
+
+---------------------------------------------------------------------
+ELEMENT 3 — THE SEVEN KEYWORD SLOTS
+---------------------------------------------------------------------
+
+These hold buyer phrases, not author vocabulary. This is where most
+listings leak discovery.
+
+  AN AUTHOR TERM is how you describe your own work.
+  A BUYER PHRASE is what a stranger types when they have the problem
+  and do not know your framework exists.
+
+  AUTHOR TERMS (nobody types these — they were invented inside your
+  head):
+    "prompt orchestration methodology"
+    "AI leverage architecture"
+
+  BUYER PHRASES (typed by people with a card out and a problem they
+  can name):
+    "how to publish a book without hiring a writer"
+    "make money with AI without coding"
+
+THE SLOTS
+
+  SLOT 1: ______________________________________________________
+  SLOT 2: ______________________________________________________
+  SLOT 3: ______________________________________________________
+  SLOT 4: ______________________________________________________
+  SLOT 5: ______________________________________________________
+  SLOT 6: ______________________________________________________
+  SLOT 7: ______________________________________________________
+
+THE TEST — apply to every slot, the same way every time:
+
+  "Would a person who has never heard of me type this into a search
+  bar, or would only a person who already follows me type it?"
+
+  If the second: delete it and write a phrase a beginner would type.
+
+  [ ] Slot 1 passed
+  [ ] Slot 2 passed
+  [ ] Slot 3 passed
+  [ ] Slot 4 passed
+  [ ] Slot 5 passed
+  [ ] Slot 6 passed
+  [ ] Slot 7 passed
+  [ ] No slot repeats another slot
+  [ ] No slot is a single broad word ("AI", "book", "business")
+
+========================== STOP COPYING HERE ==========================
+
+
+---------------------------------------------------------------------
+LISTING-LEVEL DECISIONS THAT SIT NEXT TO THE METADATA
+---------------------------------------------------------------------
+
+These are not metadata fields, but they are decided at the same time
+and they contradict the metadata if you do them last.
+
+KDP SELECT — decide explicitly, in writing
+  The program trades exclusivity for a discovery channel. The
+  exclusivity is real, and it is the whole cost.
+
+  Enroll when ALL THREE are true:
+    [ ] This is your first product
+    [ ] You have no audience of your own yet
+    [ ] You have no other marketplace plan in motion
+
+  Go wide when ANY ONE is true:
+    [ ] Your sales are already concentrated outside Amazon
+    [ ] You sell directly
+    [ ] Your product is a workbook or bundle that buyers expect in a
+        format the channel handles poorly
+
+  My decision:      ______________________________
+  The condition I am trading against:
+  ______________________________________________________________
+
+  The wrong move is enrolling by default because it was on the setup
+  screen. Defaults are how people give away optionality they later
+  need.
+
+DEPLOYMENT — two marketplaces, then wait
+  [ ] Deployed to exactly two largest English-language marketplaces
+  [ ] Thirty-day wait started on: ____ / ____ / ________
+  [ ] Calendar reminder set to review where sales actually landed
+  [ ] No expansion into a language you cannot support
+
+  Two gives you a comparison; five gives you five sets of tax and
+  payment forms, five metadata fields to correct, and no clean data.
+
+  A translated listing with English customer support and an
+  English-only product produces refunds and one-star reviews in a
+  language you cannot read. Machine translation of a description is
+  not localisation, and buyers can tell within one paragraph.
+
+
+---------------------------------------------------------------------
+THE FULL LISTING CHECK
+---------------------------------------------------------------------
+
+  [ ] Cover checked at thumbnail width
+  [ ] Three-line description reads before the read-more fold
+  [ ] All seven keyword slots are buyer phrases
+  [ ] KDP Select decided in writing, with the condition named
+  [ ] Price set from current terms, not memory
+  [ ] Two marketplaces, thirty-day wait, no expansion yet
+
+
+---------------------------------------------------------------------
+BUILD SESSION — FROM CHAPTER 4
+---------------------------------------------------------------------
+
+  [ ] Open the current KDP royalty terms and write down the band
+      boundaries and the delivery cost formula on paper before
+      setting any price
+  [ ] Price at core, then model all three tiers in the scenario
+      worksheet and record the revenue-per-visitor figure for each
+  [ ] Write the promise in three lines using outcome, audience,
+      timeframe, and obstacle, then check it reads before the
+      read-more fold
+  [ ] Replace every keyword with a phrase a stranger would type, and
+      delete any term only an existing follower would search
+  [ ] Check the cover at thumbnail width and confirm the title is
+      readable before the subtitle is legible
+  [ ] Decide KDP Select explicitly, in writing, with the condition
+      you are trading against, and deploy to two marketplaces only
+=====================================================================
