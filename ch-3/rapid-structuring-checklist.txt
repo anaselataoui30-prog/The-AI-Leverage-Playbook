@@ -1,0 +1,197 @@
+=====================================================================
+ASSET 6 — RAPID-STRUCTURING CHECKLIST
+The AI Leverage Playbook — Chapter 3
+=====================================================================
+
+HOW TO USE THIS FILE
+
+Structuring is a sequence of passes, each with its own input and
+output, done in separate sittings. Merging passes is how people end
+up with a manuscript they cannot reorder without rewriting it.
+
+One page, five passes, the exact question to ask at each, and the
+three cuts to run in pass four. Work top to bottom. Do not run two
+passes in one sitting.
+
+
+========================= START COPYING HERE =========================
+
+---------------------------------------------------------------------
+PASS 1 — PROMISE AND PROOF
+---------------------------------------------------------------------
+
+INPUT:        Finished drafts plus the one-sentence promise
+TRANSFORMATION: Ask of each draft what it proves about the promise;
+              cut what proves nothing
+OUTPUT:       Chapter list where every entry carries a
+              promise-relevance line
+
+THE QUESTION AT THIS PASS:
+  "What does this chapter prove about the promise?"
+
+  [ ] Every chapter has a written answer to that question
+  [ ] Every chapter with no answer is deleted, not moved, not
+      "saved for a bonus PDF"
+  [ ] Good drafts were deleted anyway. Quality is not the test here —
+      relevance is
+
+NOTE: This is the pass that removes work. A book is defined by its
+exclusions more than its inclusions, which is the opposite of how
+generated material behaves by default.
+
+
+---------------------------------------------------------------------
+PASS 2 — SKELETON
+---------------------------------------------------------------------
+
+INPUT:        Chapter list
+TRANSFORMATION: Order chapters as the steps a reader takes; budget
+              pages per step
+OUTPUT:       Ordered outline with page budgets
+
+THE QUESTION AT THIS PASS:
+  "What has the reader produced by the end of this chapter?"
+
+  [ ] Every chapter has a concrete answer — a file, a table, a
+      sentence, a listing, a price
+  [ ] Any chapter whose answer is "understanding" is moved or cut
+  [ ] The order is the reader's action sequence, not the order you
+      briefed the material in
+  [ ] Every chapter carries a page budget
+
+NOTE: The test is mechanical. If the answer is "understanding," the
+chapter is in the wrong place or should not exist.
+
+Generated order is your learning sequence. A reader does not need
+your learning sequence. They need their action sequence.
+
+
+---------------------------------------------------------------------
+PASS 3 — EVIDENCE MAPPING
+---------------------------------------------------------------------
+
+INPUT:        Skeleton plus your sourced Ideas rows
+TRANSFORMATION: Attach a source to every claim and number; flag gaps
+OUTPUT:       Mapped outline with gaps visible
+
+THE QUESTION AT THIS PASS:
+  "Where is the checkable source for this claim?"
+
+  [ ] Every number traces to an Ideas row with a Source
+  [ ] Every named framework traces to a source or to your own
+      definition, written down
+  [ ] Every gap is flagged visibly, not smoothed over
+  [ ] Nothing was given a source by searching for one that agrees
+      with the claim
+
+NOTE: This is the only pass you should not compress. Ungrounded
+claims survive pass four easily, because compression makes a wrong
+sentence shorter and more confident, not more true.
+
+
+---------------------------------------------------------------------
+PASS 4 — ASSEMBLY AND COMPRESSION
+---------------------------------------------------------------------
+
+INPUT:        Ordered skeleton plus drafts
+TRANSFORMATION: Paste into order, cut the three dead shapes, rewrite
+              seams
+OUTPUT:       Full manuscript at 70 to 80 percent of draft length
+
+THE QUESTION AT THIS PASS:
+  "Is this sentence information, or is it restatement?"
+
+THE THREE COMPRESSION CUTS — run all three:
+
+  CUT 1 — THE HEADING RESTATEMENT
+  A sentence that restates the heading. The heading already said it.
+  A reader scanning has already received it twice.
+
+    [ ] Every heading was read, and the sentence after it was
+        checked for restatement
+
+  CUT 2 — THE PARAPHRASE PARAGRAPH
+  A paragraph that repeats the paragraph above it in different
+  words. Generated prose does this constantly, because the pattern
+  that produces fluent text also produces paraphrase as a form of
+  emphasis.
+
+    [ ] Every paragraph was checked against the one above it
+
+  CUT 3 — THE FILLER TRANSITION
+  A transition that exists only to fill space: the one that
+  announces what the next section will cover, or recalls what the
+  previous one covered. In a 40-page product, a reader can hold the
+  structure without being reminded.
+
+    [ ] Every "in the next section," "as we discussed," and "now
+        that we have covered" was cut
+
+  [ ] Final length is between 70 and 80 percent of draft length.
+      If it is at 95 percent, you have edited, not compressed.
+
+NOTE: This is not tightening and not rewriting. Three shapes, found
+and deleted. It is not a better writer doing this — it is a stricter
+reader.
+
+Set your target in pages the reader must finish, not words you must
+produce. Then hit it by cutting. A word-count target is an
+instruction to pad, and the engine will fill it, competently, with
+restatement.
+
+
+---------------------------------------------------------------------
+PASS 5 — PROFESSIONAL PACKAGING
+---------------------------------------------------------------------
+
+INPUT:        Manuscript
+TRANSFORMATION: Cover, title and subtitle, interior formatting,
+              front and back matter
+OUTPUT:       Upload-ready file
+
+THE QUESTION AT THIS PASS:
+  "Would a stranger recognise this from a thumbnail?"
+
+  [ ] Cover is legible at thumbnail width — title readable before
+      the subtitle is legible
+  [ ] Cover carries one idea, not three
+  [ ] Title names the outcome
+  [ ] Subtitle names the audience, the timeframe, and the obstacle
+  [ ] Interior formatting is consistent: same heading style at every
+      level, same paragraph spacing, same table treatment
+  [ ] No decorative elements that behave unpredictably in a
+      reflowable file
+  [ ] Final page is one action, in the imperative, completable in
+      under twenty minutes
+  [ ] The final page carries exactly one ask — one link, one email
+      capture, or one review request
+
+NOTE: A template plus discipline beats a designer, because a
+designer optimizes one cover and a template optimizes a catalog. The
+reader who buys product two already recognises product one from the
+thumbnail.
+
+A page with three asks converts worse than a page with one, because
+it converts the reader into a decision-maker at the exact moment
+they have the least patience for it.
+
+========================== STOP COPYING HERE ==========================
+
+
+---------------------------------------------------------------------
+THE FIVE PASSES AT A GLANCE
+---------------------------------------------------------------------
+
+  PASS  INPUT                    →  OUTPUT
+  1     Drafts + promise         →  Chapter list with promise-relevance
+  2     Chapter list             →  Ordered outline with page budgets
+  3     Skeleton + sourced rows  →  Mapped outline with gaps visible
+  4     Skeleton + drafts        →  Manuscript at 70–80% of draft
+  5     Manuscript               →  Upload-ready file
+
+Two rules that keep the passes separate:
+
+  - One pass per sitting. Merging passes is how you get a manuscript
+    you cannot reorder without rewriting.
+  - Pass 3 is never compressed and never skipped.
+=====================================================================
