@@ -1,0 +1,216 @@
+=====================================================================
+ASSET 10 — THREE-EMAIL SEQUENCE TEMPLATE
+The AI Leverage Playbook — Chapter 5
+=====================================================================
+
+#####################################################################
+#                                                                   #
+#   THE RULE: EMAIL 1 DELIVERS AND ASKS FOR NOTHING.                #
+#                                                                   #
+#   No follow. No reply. No purchase. Not a soft ask, not a         #
+#   "while you're here," not a P.S. with a link.                    #
+#                                                                   #
+#   Sequences that ask in email one teach the reader that opening   #
+#   your email costs them something, which is a lesson you cannot   #
+#   unteach.                                                        #
+#                                                                   #
+#####################################################################
+
+
+HOW TO USE THIS FILE
+
+Three emails, in this order, each with one job. The sequence is
+short on purpose. Long sequences exist to wear people down, and
+wearing people down produces refunds and unsubscribes rather than
+buyers.
+
+Every claim, number, and name in these emails traces to a grounded
+Ideas row. If it does not, cut it. If the proof you need does not
+exist yet, write [NEEDS INPUT: what is missing] rather than
+inventing one.
+
+
+========================= START COPYING HERE =========================
+
+=====================================================================
+EMAIL 1 — DELIVERY
+=====================================================================
+
+  GOAL:     hand over what was promised and ask for nothing.
+  LENGTH:   80 to 120 words.
+  EXAMPLE SUBJECT:  "Your four-table base is ready"
+
+  MY SUBJECT (under 45 chars):
+  ______________________________________________________________
+
+  BODY
+
+  Hi — here it is.
+
+  [WHAT IT IS, in one sentence. The exact thing the landing page
+  promised, named the same way it was named there.]
+  ______________________________________________________________
+
+  [HOW TO USE IT, in one or two sentences. Where to put it, what to
+  do first. No context-setting, no backstory.]
+  ______________________________________________________________
+  ______________________________________________________________
+
+  [ONE LINE that tells them what to expect next, if anything. If the
+  next email arrives tomorrow, say so. If not, do not promise one.]
+  ______________________________________________________________
+
+  — [Name]
+
+  CHECKS
+  [ ] 80 to 120 words
+  [ ] Contains the deliverable, or the link to it
+  [ ] Contains no ask of any kind
+  [ ] Subject line is under 45 characters and matches the landing
+      page confirmation block
+  [ ] Would still make sense to someone who never buys anything
+
+
+=====================================================================
+EMAIL 2 — PROOF
+=====================================================================
+
+  GOAL:     demonstrate the mechanism working, once, with specifics.
+  LENGTH:   150 to 250 words.
+  EXAMPLE SUBJECT:  "One brief, nine assets, forty minutes"
+
+  MY SUBJECT (under 45 chars):
+  ______________________________________________________________
+
+  BODY
+
+  [THE SETUP, in one or two sentences. The situation as it was
+  before the mechanism ran — a real one, from your own work or a
+  customer conversation.]
+  ______________________________________________________________
+  ______________________________________________________________
+
+  [THE MECHANISM, in two or three sentences. What specifically was
+  done, in what order. Not "I used AI." The steps.]
+  ______________________________________________________________
+  ______________________________________________________________
+  ______________________________________________________________
+
+  [THE RESULT, with a number. Before-and-after beats description.
+  One result, not a list of benefits.]
+  ______________________________________________________________
+
+  [ONE LINE that leaves the loop open without closing it. Do not
+  link to the product here unless this email is the ask — this one
+  is not.]
+  ______________________________________________________________
+
+  — [Name]
+
+  CHECKS
+  [ ] 150 to 250 words
+  [ ] One story or one before-and-after, not a list of features
+  [ ] Every number traces to a Source you can point at
+  [ ] No new claims introduced that are not in the product
+  [ ] No hard ask — a link is permitted, a demand is not
+
+
+=====================================================================
+EMAIL 3 — ASK
+=====================================================================
+
+  GOAL:     one direct request to buy, with the promise restated and
+            the price stated plainly.
+  LENGTH:   100 to 150 words.
+  EXAMPLE SUBJECT:  "The full pipeline, if you want it"
+
+  MY SUBJECT (under 45 chars):
+  ______________________________________________________________
+
+  BODY
+
+  [THE RESTATED PROMISE, in one sentence. The Chapter 3 promise,
+  unchanged. Outcome, audience, timeframe, obstacle.]
+  ______________________________________________________________
+
+  [WHAT IT CONTAINS, in one or two sentences. The format and the
+  shape, not the table of contents.]
+  ______________________________________________________________
+  ______________________________________________________________
+
+  [THE PRICE, stated plainly. A number, not "a small investment."
+  If it is on sale, the date it ends.]
+  ______________________________________________________________
+
+  [THE ONE LINK. One.]
+  ______________________________________________________________
+
+  [THE ONE LINE that makes it acceptable to say no. Give them the
+  out. It converts better than pressure.]
+  ______________________________________________________________
+
+  — [Name]
+
+  CHECKS
+  [ ] 100 to 150 words
+  [ ] Promise restated, same wording as the listing
+  [ ] Price stated as a number
+  [ ] Exactly one call to action, exactly one link
+  [ ] No countdown timer language unless the deadline is real
+
+========================== STOP COPYING HERE ==========================
+
+
+---------------------------------------------------------------------
+THE SEQUENCE AT A GLANCE
+---------------------------------------------------------------------
+
+  #   JOB        WORDS      SUBJECT EXAMPLE
+  1   Delivery   80–120     "Your four-table base is ready"
+  2   Proof      150–250    "One brief, nine assets, forty minutes"
+  3   Ask        100–150    "The full pipeline, if you want it"
+
+  Total: under 520 words for the entire sequence.
+
+Short on purpose. A long sequence gives the reader more
+opportunities to decide you are not worth opening, and the decision
+is made in the first email regardless.
+
+
+---------------------------------------------------------------------
+THE THREE FAILURES
+---------------------------------------------------------------------
+
+1. ASKING IN EMAIL 1
+   The most common and the most expensive. It converts slightly
+   better on day one and poisons every email after it.
+
+2. PROOF WITHOUT A NUMBER
+   "It worked really well for me" is not proof, it is a claim about
+   your expertise. A number, a before-and-after, or a screenshot is
+   proof that the mechanism ran.
+
+3. TWO LINKS IN EMAIL 3
+   One destination per asset. A post or an email with three links
+   converts like one with none.
+
+
+---------------------------------------------------------------------
+BUILD SESSION — FROM CHAPTER 5
+---------------------------------------------------------------------
+
+  [ ] Write the one-sentence description of your traffic system:
+      which channel, which asset type, which destination, at what
+      frequency
+  [ ] Build the landing page with the promise headline, the
+      three-line description, and a single email field
+  [ ] Write the three emails in full, and confirm the first one asks
+      for nothing before you send anything
+  [ ] Take one edited draft and produce all five assets with the
+      repurposing prompt, then route each one using the mapping table
+  [ ] Record the four components of the short script as four
+      separate lines: hook, mechanism, proof, next step
+  [ ] Schedule day one through day seven now, sourced from the assets
+      you already have, and mark day twelve on the calendar with the
+      one-variable rule
+=====================================================================
