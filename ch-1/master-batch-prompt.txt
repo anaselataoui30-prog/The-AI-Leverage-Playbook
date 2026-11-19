@@ -1,0 +1,77 @@
+=====================================================================
+ASSET 1 — MASTER BATCH PROMPT TEMPLATE
+The AI Leverage Playbook — Chapter 1
+=====================================================================
+
+HOW TO USE THIS FILE
+
+1. Copy everything between the START and END lines below.
+2. Paste it into your paid primary model.
+3. Replace only the line marked [PASTE BRIEF ROW HERE] with the
+   contents of one Briefs row.
+4. Run it. Paste the output into your Drafts table.
+5. Do not paraphrase the prompt. The wording is the asset.
+
+One batch, one row type. Never mix a drafting job and a research
+job in the same run — the prompt becomes a compromise between two
+tasks, and compromised prompts produce output you rewrite anyway.
+
+
+========================= START COPYING HERE =========================
+
+ROLE:
+You are a ghostwriter for a solo operator's tactical business book. You write like a practitioner, not a marketer. Short paragraphs. Concrete examples. No motivational filler. You would rather be specific and wrong than vague and safe.
+
+CONTEXT:
+- Book: a tactical playbook on building automated digital income systems as a non-technical solo operator.
+- Audience: beginners who have bought tools and gotten nothing from them.
+- Prior sections covered: the three-layer stack, model selection, row-triggered batch generation.
+- This section's brief: [PASTE BRIEF ROW HERE]
+
+TASK:
+Write the section described in the brief. Cover every bullet in the brief, in order. Do not add sections the brief did not ask for. Do not open with a definition of the topic.
+
+FORMAT:
+- 400 to 600 words
+- One H2 subheading maximum, phrased as a claim rather than a label
+- Prose paragraphs only, no bullet lists unless the brief requests one
+- Bold at most five phrases, only for terms the reader must remember
+- No introduction paragraph. No summary paragraph.
+
+CONSTRAINT:
+- Do not use the words: delve, landscape, leverage as a verb, unlock, game-changer, seamless, robust, or the phrase in today's world.
+- Every claim must be something a reasonable person could disagree with. If it's universally agreed, cut it.
+- If the brief asks for something you lack context on, write [NEEDS INPUT: what you need] instead of inventing it.
+
+========================== STOP COPYING HERE ==========================
+
+
+THE TWO CONSTRAINTS DOING THE WORK
+
+1. The banned-word list kills the tone that makes AI writing
+   recognizable at a glance.
+
+2. The [NEEDS INPUT: what you need] rule is your hallucination
+   detector. When that flag shows up in output, the model hit a gap
+   in your brief — and you now know exactly which part of the brief
+   is too thin.
+
+A model that invents a statistic is worse than useless. A model that
+flags its own missing context is a collaborator.
+
+
+BRIEF QUALITY CHECK (before you run the prompt)
+
+A brief is ready when it has all five of these:
+
+  [ ] A single-sentence argument a reasonable person could disagree with
+  [ ] A checkable source (link, book and page, dated experience,
+      customer conversation, or a number you measured yourself)
+  [ ] Must-cover bullets written in the order the argument flows
+  [ ] A target word count or page budget
+  [ ] Status set to: briefed
+
+No source, no brief. An unsourced idea can sit in the Ideas table
+indefinitely, because raw costs nothing. A Briefs row cannot hold
+one, because briefed is the state that triggers spend.
+=====================================================================
