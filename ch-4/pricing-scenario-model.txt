@@ -1,0 +1,234 @@
+=====================================================================
+ASSET 7 — PRICING SCENARIO MODEL
+The AI Leverage Playbook — Chapter 4
+=====================================================================
+
+HOW TO USE THIS FILE
+
+Model three prices. Then choose using a metric most authors never
+compute: revenue per visitor.
+
+Revenue per sale is the number that feels relevant and the number
+that misleads. Revenue per visitor is the honest one: price
+multiplied by the share of people who buy at that price.
+
+Run all three tiers against a real week of traffic, not a guess. If
+you have no traffic yet, ship at core, then test entry for two weeks
+once Chapter 5 sends people to the page. A price tested against zero
+visitors is a preference, not a decision.
+
+
+========================= START COPYING HERE =========================
+
+STEP 0 — WRITE DOWN TODAY'S TERMS
+---------------------------------------------------------------------
+
+Do not fill in anything below from memory or from a blog post.
+Open the current KDP pricing terms inside your account, then copy
+the numbers onto this sheet by hand.
+
+  Date checked:            ____ / ____ / ________
+
+  Higher-royalty band,
+  lower boundary:          $ ________
+
+  Higher-royalty band,
+  upper boundary:          $ ________
+
+  Royalty rate inside
+  the band:                ________ %
+
+  Royalty rate outside
+  the band:                ________ %
+
+  Delivery cost formula:   ______________________________________
+  (varies with file size — write the formula, not a guess)
+
+  Printing cost for your
+  exact page count:        $ ________
+  (paperback only — page count: ______ , format: ______ )
+
+THE WORD THAT MATTERS IS "WHOLE."
+
+The rate applies to the entire price, not to the portion above or
+below a line. So when you cross the boundary, every dollar of your
+price changes rate at once, not just the last one. Moving a price by
+one dollar in the wrong direction can cut your revenue per sale
+nearly in half, because you did not lose a dollar, you lost the rate.
+
+The danger is not the number. It is that the number is a cliff
+rather than a slope, and cliffs do not warn you.
+
+
+---------------------------------------------------------------------
+STEP 1 — THE THREE TIERS
+---------------------------------------------------------------------
+
+Position every tier inside the higher-royalty band you wrote in
+Step 0. The band is a constraint, not a suggestion.
+
+TIER          PRICE POSITION                       WHO IT IS FOR
+Entry         Bottom of the higher-royalty band    Price-sensitive
+                                                   buyers and the
+                                                   first product in
+                                                   a series
+Core          Middle of the higher-royalty band    The specific
+                                                   reader the
+                                                   promise was
+                                                   written for
+Premium       Top of the higher-royalty band       Buyers comparing
+                                                   on trust and
+                                                   specificity, not
+                                                   price
+
+CONVERSION RISK, per tier:
+
+  Entry    Low price reads as low value and attracts buyers who
+           want a refund more than an outcome.
+  Core     The safe default. Under-pricing here quietly donates
+           margin you will never recover.
+  Premium  Conversion drops sharply and does not recover without
+           proof elements in the description.
+
+
+---------------------------------------------------------------------
+STEP 2 — THE MODEL
+---------------------------------------------------------------------
+
+Fill one row per tier. Use REAL traffic where you have it. Where you
+do not, write "no data" — do not write a hopeful number, because a
+hopeful number becomes a decision.
+
+COLUMN DEFINITIONS
+
+  Price                 The list price you are testing
+  Royalty rate          The rate that applies to that WHOLE price,
+                        from Step 0
+  Delivery / print cost Per-unit cost subtracted before your share,
+                        from Step 0
+  Net per sale          (Price x Rate) - Cost
+  Visitors              Real visitors to the page in the test window
+  Conversions           Real purchases in the same window
+  Conversion rate       Conversions / Visitors, as a percentage
+  Revenue per visitor   Net per sale x Conversion rate
+
+THE MODEL
+
+TIER: ENTRY
+  Price:                 $ ________
+  Royalty rate:          ________ %
+  Delivery / print cost: $ ________
+  Net per sale:          $ ________
+  Visitors:              ________
+  Conversions:           ________
+  Conversion rate:       ________ %
+  Revenue per visitor:   $ ________
+
+TIER: CORE
+  Price:                 $ ________
+  Royalty rate:          ________ %
+  Delivery / print cost: $ ________
+  Net per sale:          $ ________
+  Visitors:              ________
+  Conversions:           ________
+  Conversion rate:       ________ %
+  Revenue per visitor:   $ ________
+
+TIER: PREMIUM
+  Price:                 $ ________
+  Royalty rate:          ________ %
+  Delivery / print cost: $ ________
+  Net per sale:          $ ________
+  Visitors:              ________
+  Conversions:           ________
+  Conversion rate:       ________ %
+  Revenue per visitor:   $ ________
+
+THE DECISION
+
+  Highest revenue per visitor:        ______________________
+  Was that the highest price?          yes / no
+  Was that the lowest price?           yes / no
+  Test window dates:                   ____ to ____
+
+A premium price that converts a fifth as well as the core price
+usually loses. An entry price that converts slightly better rarely
+makes up the rate it gave away.
+
+========================== STOP COPYING HERE ==========================
+
+
+---------------------------------------------------------------------
+WORKED SHAPE (structure only — no rates)
+---------------------------------------------------------------------
+
+This example shows how the arithmetic is laid out. The rate, the
+cost, and the conversion numbers are placeholders, not advice.
+Substitute your Step 0 figures.
+
+  Entry   price $A    rate R1    cost $c1    visitors 400
+          conversions 16   →  4.0%   →  RPV = ($A x R1 - $c1) x 0.04
+  Core    price $B    rate R2    cost $c2    visitors 400
+          conversions 8    →  2.0%   →  RPV = ($B x R2 - $c2) x 0.02
+  Premium price $C    rate R3    cost $c3    visitors 400
+          conversions 3    →  0.75%  →  RPV = ($C x R3 - $c3) x 0.0075
+
+Do not compare the prices. Compare the RPV column. That is the
+whole point of the model.
+
+
+---------------------------------------------------------------------
+TWO CONSEQUENCES TO CARRY INTO THE LISTING
+---------------------------------------------------------------------
+
+  1. Never set a price from memory. Open the current terms and
+     re-derive it each launch. Terms change; your memory of them
+     does not.
+
+  2. Never assume lower price means more sales volume compensates.
+     A discounted price also signals a discounted product to the
+     exact buyer who was comparing you to nothing.
+
+
+---------------------------------------------------------------------
+PAPERBACK — THE MATH THAT CATCHES PEOPLE
+---------------------------------------------------------------------
+
+Ebook revenue is a rate applied to a price with a delivery cost
+subtracted. Print revenue is a rate applied to a price with a
+printing cost subtracted, and the printing cost scales with page
+count and format in a way file size does not.
+
+Thicker means more expensive to produce, and that cost comes out
+before your share.
+
+  [ ] Page count and format recorded in Step 0
+  [ ] Printing cost for that exact page count written down
+  [ ] Price was NOT set by adding a fixed amount to the ebook price
+      — that is how people accidentally sell at a loss
+
+The reason to do the paperback anyway is trust. A buyer comparing
+two unknown authors will treat the one with a paperback as the more
+established of the two, regardless of whether it is true. That is a
+cheap credibility layer, and it is the entire justification.
+
+
+---------------------------------------------------------------------
+BUILD SESSION — FROM CHAPTER 4
+---------------------------------------------------------------------
+
+  [ ] Open the current KDP royalty terms and write down the band
+      boundaries and the delivery cost formula on paper before
+      setting any price
+  [ ] Price at core, then model all three tiers in the scenario
+      worksheet and record the revenue-per-visitor figure for each
+  [ ] Write the promise in three lines using outcome, audience,
+      timeframe, and obstacle, then check it reads before the
+      read-more fold
+  [ ] Replace every keyword with a phrase a stranger would type, and
+      delete any term only an existing follower would search
+  [ ] Check the cover at thumbnail width and confirm the title is
+      readable before the subtitle is legible
+  [ ] Decide KDP Select explicitly, in writing, with the condition
+      you are trading against, and deploy to two marketplaces only
+=====================================================================
