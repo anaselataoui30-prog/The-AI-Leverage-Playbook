@@ -1,0 +1,228 @@
+=====================================================================
+ASSET 9 — LANDING PAGE TEMPLATE
+The AI Leverage Playbook — Chapter 5
+=====================================================================
+
+HOW TO USE THIS FILE
+
+A published product with no traffic is a warehouse with no road. The
+inventory is fine. Nothing reaches it.
+
+Borrowed traffic is rented, not owned. A follower count on a platform
+you do not control is rented space. The rent can be raised, the terms
+changed, or the lease ended, and none of those decisions require your
+consent. Building the entire road on rented land means one policy
+change can put you back at zero with the product still listed and
+nobody arriving.
+
+The minimum owned layer is three pieces: one landing page, one email
+capture, one sequence of three emails. That is the whole thing. Not
+a funnel diagram with eleven boxes and a quiz.
+
+
+========================= START COPYING HERE =========================
+
+SECTION 1 — THE HEADLINE
+---------------------------------------------------------------------
+
+One job: state the change of state. This is your product promise
+from Chapter 3, compressed to a line.
+
+  ______________________________________________________________
+
+  [ ] It names an outcome, not a topic
+  [ ] It names the audience or makes it obvious
+  [ ] It fits on one line at mobile width
+  [ ] It contains a number, or the subhead does
+
+Weak (a topic):   "A guide to using AI for content"
+Strong (a state): "Publish one grounded chapter a day, without
+                   writing a draft or hiring a writer"
+
+If the headline needs a second sentence to make sense, it is two
+headlines and you have not chosen.
+
+
+---------------------------------------------------------------------
+SECTION 2 — THE THREE-LINE DESCRIPTION
+---------------------------------------------------------------------
+
+Pulled directly from Chapter 4's three-line builder. Same lines, same
+order. Do not rewrite them for the landing page — a visitor who saw
+the listing should recognise the page, and a visitor who sees the
+page first should recognise the listing.
+
+  LINE 1 — OUTCOME
+  ______________________________________________________________
+
+  LINE 2 — AUDIENCE
+  ______________________________________________________________
+
+  LINE 3 — TIMEFRAME + OBSTACLE
+  ______________________________________________________________
+
+  [ ] All three lines present
+  [ ] Same wording as the listing description
+  [ ] No new claims that the product does not deliver
+
+
+---------------------------------------------------------------------
+SECTION 3 — THE SINGLE CAPTURE FIELD
+---------------------------------------------------------------------
+
+One field. Email only.
+
+  [ EMAIL ADDRESS                        ]  [ Send it to me ]
+
+  [ ] Exactly one input field
+  [ ] No phone number — on a nonfiction page it signals a sales
+      call nobody asked for
+  [ ] No first name, no company, no "how did you hear about us"
+  [ ] The button names what happens next, not "Submit"
+
+Every additional field lowers the share of people who finish the
+form. The landing page has one job: convert an arriving stranger
+into an email address. The capture is the asset. The sequence is
+what turns it into revenue.
+
+
+---------------------------------------------------------------------
+SECTION 4 — THE DELIVERY CONFIRMATION BLOCK
+---------------------------------------------------------------------
+
+Two things to write here: what the reader sees the instant they
+submit, and what actually lands in their inbox.
+
+WHAT THEY SEE ON SUBMIT (on-page confirmation)
+  ______________________________________________________________
+  ______________________________________________________________
+
+  [ ] Confirms the exact thing that was promised, in one sentence
+  [ ] Tells them where to look for the email, by subject line
+  [ ] Asks for nothing — no follow, no purchase, no reply
+  [ ] Does not say "check your spam folder" before they have had a
+      chance to open anything
+
+WHAT LANDS IN THE INBOX
+  The first email of the three-email sequence (Asset 10). Write its
+  subject line here so the confirmation block can name it:
+
+  Subject: ______________________________________________________
+
+  [ ] The subject line in this block matches the actual Email 1
+      subject, character for character
+  [ ] Email 1 delivers and asks for nothing
+
+
+---------------------------------------------------------------------
+THE PAGE, IN ORDER
+---------------------------------------------------------------------
+
+  1. Headline — the change of state
+  2. Three-line description — outcome, audience, timeframe + obstacle
+  3. Single email field + a button that names the next step
+  4. Delivery confirmation — what happens now, and what to look for
+
+Nothing else. No testimonials you have not earned, no countdown
+timer, no "as featured in." A page with one job converts better than
+a page with five, because a page with five turns the visitor into a
+decision-maker at the moment they have the least patience for it.
+
+========================== STOP COPYING HERE ==========================
+
+
+---------------------------------------------------------------------
+WHERE THE TRAFFIC COMES FROM (routing reminder)
+---------------------------------------------------------------------
+
+Chapter 2's repurposing prompt produces five asset types from one
+edited draft. Each belongs somewhere specific, and each needs a
+route back to the product page that does not depend on the viewer's
+memory.
+
+  ASSET TYPE      PLATFORM                 ROUTING
+  Thread          text-first social        final post names the
+                                           destination, or pinned
+                                           reply carries it
+  Long post       professional network     link at the end of the
+                                           post body
+  Email           owned list               direct link in the body
+  Short script    video, long-form capable pinned comment plus a
+                                           link in the channel bio
+  Caption         visual-first social      link in bio
+
+Two rules make the table work:
+
+  - One destination per asset, not three. A post with three links
+    converts like a post with none.
+  - No asset routes to another social post. A route that ends on a
+    platform you do not own is not a route.
+
+
+---------------------------------------------------------------------
+THE FOUR COMPONENTS OF EVERY SHORT POST
+---------------------------------------------------------------------
+
+Whatever routes traffic to this page, each post carries four parts
+in order. Skip one and the post either gets no attention or gets
+attention and routes it nowhere.
+
+  1. HOOK — first three seconds
+     Names a problem or an outcome specific enough that the right
+     person stops. No greeting. No "in this video." No describing
+     what you are about to describe.
+
+  2. MECHANISM — next fifteen to twenty seconds
+     The actual mechanism, named and shown, not summarised. "Here
+     are three tips" is not a mechanism. "The tables come before the
+     prompts, because prompts with no rows to run against are
+     untestable" is a mechanism.
+
+  3. PROOF — following twenty seconds
+     What the mechanism produced. A number, a before-and-after, a
+     screenshot of a table. Proof is not a claim about your
+     expertise, it is evidence that the mechanism ran.
+
+  4. NEXT STEP — final five seconds
+     One action, one destination. "Follow for more" is not a next
+     step, it is a request to stay in the same place. The close
+     names where to go and what is there.
+
+
+---------------------------------------------------------------------
+THE HOOK REWRITE — REFERENCE
+---------------------------------------------------------------------
+
+Weak:   "Here is how I use AI to write books faster than ever."
+
+Strong: "You can ship a 40-page product in 30 days without writing a
+         draft. The pipeline that does it has four stages, and the
+         third one is where everyone skips the work."
+
+Why: the weak hook promises speed to an audience that already
+believes speed is possible, which makes it noise. The strong hook
+names a format, a timeframe, and an obstacle, and the last clause
+tells the viewer there is a specific failure mode they are probably
+committing. A person in that situation recognises themselves in
+under two seconds.
+
+
+---------------------------------------------------------------------
+BUILD SESSION — FROM CHAPTER 5
+---------------------------------------------------------------------
+
+  [ ] Write the one-sentence description of your traffic system:
+      which channel, which asset type, which destination, at what
+      frequency
+  [ ] Build the landing page with the promise headline, the
+      three-line description, and a single email field
+  [ ] Write the three emails in full, and confirm the first one asks
+      for nothing before you send anything
+  [ ] Take one edited draft and produce all five assets with the
+      repurposing prompt, then route each one using the mapping table
+  [ ] Record the four components of the short script as four
+      separate lines: hook, mechanism, proof, next step
+  [ ] Schedule day one through day seven now, sourced from the assets
+      you already have, and mark day twelve on the calendar with the
+      one-variable rule
+=====================================================================
