@@ -1,0 +1,197 @@
+=====================================================================
+ASSET 3 — MODULE-BRIEF TEMPLATE
+The AI Leverage Playbook — Chapter 2
+=====================================================================
+
+HOW TO USE THIS FILE
+
+1. Duplicate the block below into one Briefs row.
+2. Fill the four required fields. Leave nothing blank.
+3. Move the row to briefed only when the Source field is checkable.
+4. Run it through the master batch prompt by hand five times before
+   you let any automation near it.
+
+This row is the one piece of the pipeline you do not hand to a model.
+Structural expansion is the step where you decide what the piece
+argues: the claim, the order of the evidence, what gets cut.
+Automate this and every downstream asset inherits the model's
+default structure.
+
+A model asked to expand a brief will produce the most statistically
+average structure available for that topic. Setup, three points,
+balanced conclusion. It reads competently, which is the problem. Your
+chapter becomes a summary of the topic rather than an argument about
+it, and the defect is invisible in the draft because the sentences
+are good.
+
+
+========================= START COPYING HERE =========================
+
+BRIEF ROW
+
+TABLE:            Briefs
+STATUS:           raw  /  briefed  /  drafted  /  edited  /  shipped
+IDEA LINK:        [ which Ideas row this came from ]
+
+---------------------------------------------------------------
+1. ARGUMENT — ONE SENTENCE
+---------------------------------------------------------------
+
+The single claim this piece makes:
+
+  ______________________________________________________________
+  ______________________________________________________________
+
+TEST — before you go further:
+  [ ] A reasonable person could disagree with this sentence.
+      If everyone would agree with it, it is a topic, not an
+      argument. Rewrite it until somebody could argue back.
+
+  [ ] It is a claim, not a subject.
+      "The three-layer stack" is a subject.
+      "Collapsing three layers into one chat window costs you the
+      thing each layer was protecting" is a claim.
+
+---------------------------------------------------------------
+2. SOURCE / GROUNDING
+---------------------------------------------------------------
+
+Every Ideas row behind this brief carries a Source field, and it is
+not optional. Paste the source here so it travels with the brief.
+
+  SOURCE 1: ____________________________________________________
+  SOURCE 2: ____________________________________________________
+  SOURCE 3: ____________________________________________________
+
+ACCEPTABLE ENTRIES
+  - a link
+  - a book and page number
+  - a dated personal experience
+  - a customer conversation
+  - a number you measured yourself
+
+NOT ACCEPTABLE
+  - a topic name
+  - a memory of a video
+  - the word "various"
+  - a claim you are confident is true but cannot point at
+
+RULE: NO SOURCE, NO BRIEF.
+
+The Ideas table can hold a hundred unsourced lines indefinitely,
+because raw costs nothing. The Briefs table cannot hold one, because
+briefed is the state that triggers spend.
+
+Quote or link the source into the Context block of the prompt. Do
+not paraphrase it. A model given a source compresses it. A model
+given nothing invents. There is no third behaviour, and no prompt
+wording changes that.
+
+---------------------------------------------------------------
+3. MUST-COVER BULLETS
+---------------------------------------------------------------
+
+Write these in the order the argument flows, not the order you
+thought of them. The order is the argument. If you cannot state the
+order in one pass, the argument in field 1 is not finished.
+
+  1. ____________________________________________________________
+  2. ____________________________________________________________
+  3. ____________________________________________________________
+  4. ____________________________________________________________
+  5. ____________________________________________________________
+
+MINIMUM FOUR BULLETS PER BRIEF. One H2 subheading maximum, phrased
+as a claim rather than a label — that limit is set by the master
+batch prompt, and a brief with eight bullets will produce a section
+the prompt cannot format correctly.
+
+What gets cut is decided here, not by the model. If a bullet does
+not serve the argument in field 1, delete it now. Deleting it later
+means editing sentences that were written around it.
+
+---------------------------------------------------------------
+4. TARGET WORDS / PAGE BUDGET
+---------------------------------------------------------------
+
+  TARGET WORDS:        ________
+  (master prompt band: 400 to 600 words per section)
+
+  PAGE BUDGET:         ________
+  (only if this brief feeds a product chapter — set pages the
+  reader must finish, not words you must produce)
+
+Do not set a word count you intend to hit by adding. A word-count
+target is an instruction to pad, and the engine will fill it,
+competently, with restatement and context-setting. Hit the target
+by cutting.
+
+---------------------------------------------------------------
+5. NOTES FOR THE NEXT PASS
+---------------------------------------------------------------
+
+  What this section is NOT about:  ______________________________
+  (the adjacent argument you are deliberately leaving to another
+  section — this stops the model from covering it twice)
+
+  Known gap:  __________________________________________________
+  (if a bullet needs evidence you do not have yet, write it here.
+  The prompt will return [NEEDS INPUT: ...] and you will recognise
+  the flag instead of treating it as output)
+
+========================== STOP COPYING HERE ==========================
+
+
+---------------------------------------------------------------------
+WHEN A BRIEF IS READY TO MOVE TO "BRIEFED"
+---------------------------------------------------------------------
+
+All five, or it stays raw:
+
+  [ ] Field 1 is a claim a reasonable person could disagree with
+  [ ] Field 2 has at least one checkable source
+  [ ] Field 3 has four or more bullets, in argument order
+  [ ] Field 4 has a number
+  [ ] Field 5 names the adjacent argument you are not covering
+
+
+---------------------------------------------------------------------
+WHEN OUTPUT COMES BACK
+---------------------------------------------------------------------
+
+The brief is not finished when the model answers. It is finished
+when you have read the draft and named what is wrong with it. That
+read is the signal on whether the brief was thin — and it is the
+only cheap signal you get, because fluency hides a missing argument.
+
+  [ ] If [NEEDS INPUT: ...] appeared, fix the brief, not the draft
+  [ ] If the draft restates the topic instead of arguing it, field 1
+      was a subject, not a claim
+  [ ] If the draft covers ground field 5 said to leave alone, field
+      5 was too vague to constrain anything
+
+Failing any of these sends the row back to this template, not to
+line editing. Line editing cannot repair a missing argument, which
+is why chapters produced that way read as polished and empty at the
+same time.
+
+
+---------------------------------------------------------------------
+BUILD SESSION — FROM CHAPTER 2
+---------------------------------------------------------------------
+
+  [ ] Add the Source field to the Ideas table and enter a real,
+      checkable source for every idea you intend to brief this week
+  [ ] Write one brief by hand with the argument stated in a single
+      sentence, then move it to briefed
+  [ ] Run the master batch prompt by hand on that brief five times
+      before touching any automation, noting what you change each run
+  [ ] Build the single automation: briefed triggers a model call,
+      writes a Drafts row, sets Drafts to drafted and Briefs to
+      drafted
+  [ ] Create the Assets table with the six columns, and leave it
+      empty until the first asset ships
+  [ ] Repurpose one edited draft into two asset types, run both
+      through the three robotic content questions, and fix whatever
+      fails before scheduling
+=====================================================================
