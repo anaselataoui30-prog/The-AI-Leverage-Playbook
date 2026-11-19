@@ -1,0 +1,216 @@
+=====================================================================
+ASSET 5 — PRODUCT PROMISE WORKSHEET
+The AI Leverage Playbook — Chapter 3
+=====================================================================
+
+HOW TO USE THIS FILE
+
+One page, four slots, plus three rewrite prompts. Write the promise
+sentence before the outline, and rewrite it after every pass.
+
+A topic is not a product. A topic describes territory. A promise
+describes a change of state. Territory cannot be failed, which is
+why nobody buys it.
+
+"A guide to using AI for content" is a topic. It cannot be graded.
+A reader who buys it has no way to know whether you delivered, and a
+reader with no way to check does not buy in the first place.
+
+
+========================= START COPYING HERE =========================
+
+THE FORMULA
+
+  This [format] helps [specific audience] achieve [specific outcome]
+  in [timeframe] without [specific obstacle].
+
+FILLED EXAMPLE
+
+  This 40-page playbook helps non-technical solo operators publish
+  one grounded chapter per day in 30 days without hiring a writer or
+  writing a line of code.
+
+
+---------------------------------------------------------------------
+SLOT 1 — FORMAT
+---------------------------------------------------------------------
+
+Length and shape. A number and a noun. Not "a comprehensive guide."
+
+  This __________________________________________________________
+
+  Prompts:
+  - How many pages, words, or modules? Write the number.
+  - What shape is it — playbook, workbook, checklist, template pack?
+  - Would a buyer know from this slot alone how long it takes to
+    finish?
+
+
+---------------------------------------------------------------------
+SLOT 2 — SPECIFIC AUDIENCE
+---------------------------------------------------------------------
+
+Narrow enough that a specific person recognises themselves. If
+everyone is the audience, no one is.
+
+  helps _________________________________________________________
+
+  Prompts:
+  - Name the person and the situation they are already in.
+  - What have they already bought that did not work? Say it.
+  - Who is explicitly NOT in this audience? The exclusion is how a
+    promise becomes believable to the person it was written for.
+
+
+---------------------------------------------------------------------
+SLOT 3 — SPECIFIC OUTCOME
+---------------------------------------------------------------------
+
+Observable, not aspirational. A reader must be able to tell, on the
+last page, whether they got it.
+
+  achieve _______________________________________________________
+
+  Prompts:
+  - Can the reader check this at the end? If not, it is a feeling,
+    not an outcome.
+  - Is it something they produce or something they become?
+    "Publish one chapter a day" is checkable. "Become an AI power
+    user" is not.
+  - Would a stranger be able to verify it by asking them one
+    question?
+
+
+---------------------------------------------------------------------
+SLOT 4 — TIMEFRAME
+---------------------------------------------------------------------
+
+A number. Not "fast," not "quickly," not "in no time."
+
+  in ____________________________________________________________
+
+  Prompts:
+  - Is the number honest for the audience in slot 2?
+  - Is it a build timeframe or a revenue timeframe? They are not
+    the same, and confusing them produces refund requests.
+  - What exactly is finished at the end of it — the system, the
+    product, or the income?
+
+
+---------------------------------------------------------------------
+SLOT 5 — SPECIFIC OBSTACLE
+---------------------------------------------------------------------
+
+The thing they already tried and failed at. This is the only reason
+they are reading instead of writing.
+
+  without _______________________________________________________
+
+  Prompts:
+  - What have they already tried that failed?
+  - What does this product let them skip — a skill, a hire, a tool,
+    a step?
+  - Does this slot exclude somebody? It should. An exclusion is not
+    a weakness in the promise.
+
+
+---------------------------------------------------------------------
+ASSEMBLED PROMISE
+---------------------------------------------------------------------
+
+  This __________________________________ helps ____________________
+  achieve _______________________________ in ______________________
+  without ______________________________________________________.
+
+Read it aloud. If you stumble, the slots are too long or one of
+them is doing two jobs. Split it.
+
+
+---------------------------------------------------------------------
+THE FOUR-SLOT CHECK
+---------------------------------------------------------------------
+
+All four mandatory, none negotiable, or the sentence is not a
+promise:
+
+  [ ] Format is a length and a shape
+  [ ] Audience is narrow enough that a specific person recognises
+      themselves
+  [ ] Outcome is observable, not aspirational
+  [ ] Timeframe is a number
+  [ ] Obstacle is the thing they already tried and failed at
+
+The obstacle slot does the most work and gets skipped the most.
+"Without writing code" excludes people. Good.
+
+
+---------------------------------------------------------------------
+THREE REWRITE PROMPTS
+---------------------------------------------------------------------
+
+Use these when a slot feels true but unverifiable. Each one attacks
+a different failure.
+
+REWRITE PROMPT 1 — IS THE OUTCOME OBSERVABLE?
+  Ask: "How would I know, on the last page, whether the reader got
+  this?"
+  If the answer is a feeling, a mindset, or an understanding, the
+  outcome is aspirational. Rewrite it as something they produce,
+  file, publish, or can show someone.
+
+REWRITE PROMPT 2 — IS THE OBSTACLE REAL?
+  Ask: "Name a person I know who tried this and failed at exactly
+  this step."
+  If no such person comes to mind, the obstacle is invented. Go back
+  to a customer conversation or your own failed attempt and take the
+  obstacle from there. Invented obstacles produce promises nobody
+  was waiting for.
+
+REWRITE PROMPT 3 — IS THE AUDIENCE TOO WIDE?
+  Ask: "Who is this explicitly NOT for?"
+  Write the exclusion down. If you cannot name someone the promise
+  excludes, the audience is "everyone," which means the promise
+  belongs to no one. Narrow it until it excludes a real group, then
+  check that the group you kept is the one with the card out.
+
+========================== STOP COPYING HERE ==========================
+
+
+---------------------------------------------------------------------
+WHEN THE PROMISE IS FINISHED
+---------------------------------------------------------------------
+
+The promise is not decoration. It does three jobs downstream and you
+will use it again in every chapter:
+
+  1. STRUCTURE — Pass one of the five passes deletes any chapter
+     that does not prove the promise, regardless of how good the
+     draft is.
+  2. LISTING — The three-line description in Chapter 4 is this
+     promise, split at the slots.
+  3. LANDING PAGE — The headline in Chapter 5 is this promise,
+     compressed to a line.
+
+Rewrite it after every structuring pass. A promise that never
+changes was never tested against the product.
+
+
+---------------------------------------------------------------------
+BUILD SESSION — FROM CHAPTER 3
+---------------------------------------------------------------------
+
+  [ ] Write the promise sentence using all four slots, then read it
+      aloud and confirm the obstacle names something a real reader
+      already tried and failed at
+  [ ] Run pass one on your chapter list and delete every chapter that
+      does not prove the promise, even if the draft is good
+  [ ] Reorder the surviving chapters by action sequence, naming what
+      the reader has produced by the end of each one
+  [ ] Attach a checkable source to every number and named framework,
+      and cut or ground every claim without one
+  [ ] Run the three compression cuts until the manuscript lands
+      between 70 and 80 percent of its draft length
+  [ ] Package it: thumbnail-legible cover, title naming the outcome,
+      subtitle naming audience, timeframe and obstacle, consistent
+      interior headings, and a one-action final page
+=====================================================================
