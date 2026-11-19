@@ -1,0 +1,187 @@
+=====================================================================
+ASSET 4 — REPURPOSING PROMPT TEMPLATE
+The AI Leverage Playbook — Chapter 2
+=====================================================================
+
+HOW TO USE THIS FILE
+
+Same five blocks, same order, different job. The master prompt in
+Chapter 1 expands a brief into prose. This one takes finished prose
+and rewrites it per platform without touching the argument.
+
+1. Copy the SHARED BLOCKS (Role, Context, Task, Constraint).
+2. Copy exactly one FORMAT block — the asset type you need.
+3. Paste an edited draft, never a raw draft. Repurposing a weak
+   draft multiplies weakness.
+4. Run the output through the three robotic content questions
+   before anything is scheduled.
+
+Two things to notice in the constraint block. The prescriptions name
+the shape of each asset type, because a model asked for a thread
+with no shape specified will hand you a list of paragraphs and call
+it structure. The prohibition forbids new claims, because a
+repurposing pass is the easiest place in the entire pipeline to
+introduce a fact nobody verified, disguised as reformatting.
+
+
+========================= START COPYING HERE =========================
+
+-------------------------------
+SHARED BLOCKS — COPY THESE
+-------------------------------
+
+ROLE:
+You are a repurposing editor for a solo operator's tactical business book. You work only with the text provided. You do not add ideas. You write like a practitioner addressing peers, not a marketer addressing a market.
+
+CONTEXT:
+- Source draft: [PASTE EDITED DRAFT HERE]
+- Asset type requested: [thread / long post / email / short script / caption]
+- Platform: [PASTE PLATFORM]
+- Audience: non-technical solo operators building digital income systems
+- The draft's single argument, in one sentence: [PASTE IT]
+
+TASK:
+Rewrite the source draft for the requested asset type and platform. Keep the same argument and the same evidence. Change only length, structure, and entry point. Open with the strongest claim already in the draft, not with context and not with a question.
+
+CONSTRAINT:
+- Do not introduce any claim, number, name, or framework that is not present in the source draft.
+- Do not use: delve, landscape, leverage as a verb, unlock, game-changer, seamless, robust, or the phrase in today's world.
+- Do not write a hook that promises something the draft does not deliver.
+- If the source draft lacks the evidence this asset type needs, write [NEEDS INPUT: what is missing] instead of writing around it.
+
+
+-------------------------------
+FORMAT BLOCK — COPY ONE ONLY
+-------------------------------
+
+--- OPTION 1: THREAD ---
+
+FORMAT:
+- Thread: 6 to 9 numbered posts, each under 220 characters, one idea per post, first post states the argument, last post states the action.
+
+
+--- OPTION 2: LONG POST ---
+
+FORMAT:
+- Long post: 300 to 500 words, at most one bolded line, paragraphs of one to three sentences.
+
+
+--- OPTION 3: EMAIL ---
+
+FORMAT:
+- Email: subject line under 45 characters, body 150 to 250 words, one call to action, no greeting paragraph.
+
+
+--- OPTION 4: SHORT SCRIPT ---
+
+FORMAT:
+- Short script: 45 to 75 seconds spoken, hook in the first sentence, no narration of what you are about to say.
+
+
+--- OPTION 5: CAPTION ---
+
+FORMAT:
+- Caption: under 80 words, first line must stand alone if the rest is truncated.
+
+========================== STOP COPYING HERE ==========================
+
+
+---------------------------------------------------------------------
+THE FIVE SHAPES, AS A REFERENCE
+---------------------------------------------------------------------
+
+THREAD          6 to 9 numbered posts
+                each under 220 characters
+                one idea per post
+                first post states the argument
+                last post states the action
+                → where: text-first social
+
+LONG POST       300 to 500 words
+                at most one bolded line
+                paragraphs of 1 to 3 sentences
+                → where: professional network
+
+EMAIL           subject under 45 characters
+                body 150 to 250 words
+                one call to action
+                no greeting paragraph
+                → where: owned list
+
+SHORT SCRIPT    45 to 75 seconds spoken
+                hook in the first sentence
+                no narration of what you are about to say
+                → where: video, long-form capable
+
+CAPTION         under 80 words
+                first line stands alone if truncated
+                → where: visual-first social
+
+One destination per asset, not three. A post with three links
+converts like a post with none. And no asset routes to another
+social post — a route that ends on a platform you do not own is not
+a route.
+
+
+---------------------------------------------------------------------
+BEFORE YOU RUN IT
+---------------------------------------------------------------------
+
+The source must be an edited draft. Three checks:
+
+  [ ] It has passed the robotic content test — all three, no
+      partial credit
+  [ ] It contains at least one number, name, or before-and-after
+      that the proof section can use
+  [ ] Its single argument fits in one sentence, because you have to
+      paste that sentence into the Context block
+
+If any of those fail, you are repurposing a draft that will produce
+nine assets built on a hollow argument. That is not nine times the
+output. It is nine times the embarrassment, shipped on a schedule.
+
+
+---------------------------------------------------------------------
+THE ROBOTIC CONTENT TEST
+---------------------------------------------------------------------
+
+Run the output through these before it is scheduled. The mapping
+matters more than the questions.
+
+1. Could a competitor publish this paragraph about a different
+   product without changing a word?
+   → FAIL sends the piece back to structural expansion.
+
+2. Does every number, name, and framework in it trace to a source
+   row?
+   → FAIL sends it back to source capture. Cut it or ground it —
+   there is no third option, and softening the claim is not
+   grounding it.
+
+3. Would a reader who already knows this topic learn one thing?
+   → FAIL means the brief was too thin. Delete the row rather than
+   rescue it.
+
+Most people try to fix all three failures with line editing. Line
+editing cannot repair a missing argument.
+
+
+---------------------------------------------------------------------
+BUILD SESSION — FROM CHAPTER 2
+---------------------------------------------------------------------
+
+  [ ] Add the Source field to the Ideas table and enter a real,
+      checkable source for every idea you intend to brief this week
+  [ ] Write one brief by hand with the argument stated in a single
+      sentence, then move it to briefed
+  [ ] Run the master batch prompt by hand on that brief five times
+      before touching any automation, noting what you change each run
+  [ ] Build the single automation: briefed triggers a model call,
+      writes a Drafts row, sets Drafts to drafted and Briefs to
+      drafted
+  [ ] Create the Assets table with the six columns, and leave it
+      empty until the first asset ships
+  [ ] Repurpose one edited draft into two asset types, run both
+      through the three robotic content questions, and fix whatever
+      fails before scheduling
+=====================================================================
